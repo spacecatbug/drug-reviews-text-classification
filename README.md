@@ -10,5 +10,6 @@ The data that is being used is publically available ![here](https://archive.ics.
 
 ![Link to full Jupyter Notebook](https://github.com/spacecatbug/drug-reviews-text-classification/blob/master/DrugReviewClassification.ipynb)
 
+## Quick demo
 
 ![link to demo video](./TextClassificationDemo.gif)

@@ -5,4 +5,7 @@ In this text mining task, text classification is performed in an attempt to pred
 The patient review data is processed as word embeddings using a pre-trained model. These embeddings are then used to train a model which is used to predict the drug effectiveness on a test dataset.
 
 The data that is being used is publically available here:
+
 https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29
+
+![link to demo video](./blob/master/TextClassificationDemo.gif)

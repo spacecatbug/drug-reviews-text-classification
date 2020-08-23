@@ -8,4 +8,4 @@ The data that is being used is publically available here:
 
 https://archive.ics.uci.edu/ml/datasets/Drug+Review+Dataset+%28Druglib.com%29
 
-![link to demo video](./blob/master/TextClassificationDemo.gif)
+![link to demo video](./TextClassificationDemo.gif)

@@ -1,4 +1,4 @@
-# Text classification of drug review data
+# Text classification of online drug review websites
 
 ## Aim
 

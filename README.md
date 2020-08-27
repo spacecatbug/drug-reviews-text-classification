@@ -1,5 +1,5 @@
 # Text classification of online drug review websites
-
+This analysis is conducted as part of the requirements for AUT's COMP723 Data Mining course, Semester 2 2020
 ## Aim
 
 The aim is to try and predict the effectiveness of drugs from online drug review websites by using text mining and machine learning.

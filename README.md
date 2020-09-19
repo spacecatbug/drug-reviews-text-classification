@@ -1,4 +1,4 @@
-# Text classification of online drug review websites
+# Text classification of online drug reviews
 ## Aim
 
 To try and predict the effectiveness of drugs from online drug review websites by using text mining and machine learning techniques.

@@ -1,10 +1,5 @@
-# COMP723: Data Mining and Knowledge Engineering
-# Assignment 1: Text classification
-# Name:          Megan Teh
-# Student ID:    13835048
-
 """
-This assignment implements text classification on online drug reviews to
+This is an implementation of text classification on online drug reviews to
 predict the drug effectiveness. This is a utilities script with helper functions
 used for pre-processing data to build the text classification models.
 """

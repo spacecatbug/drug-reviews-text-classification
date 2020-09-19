@@ -10,9 +10,8 @@ When new medicines are developed, clinical trials and research need to be undert
 
 ## Method
 
-A Bag of Words model is used to build two models to classify the text, a Support Vector Machine and Random Forest Classifier
+A Bag of Words model is used to represent the text as vectors and the text classification was performed using two supervised machine learning models: Random Forest and Support Vector Machine.
 
-![Click through to see the full analysis](./DrugReviewRandomForestClassification.ipynb)
+![Projection of drug reviews](http://projector.tensorflow.org/?config=https://gist.githubusercontent.com/myiwt/4f8324e830e14cc1b5032e4b2e486aed/raw/886d1e4594bd4275db50d2b4f26c1978df9f83ab/embedding_projector_config.json)
 
-
-![link to demo video](./TextClassificationDemo.gif)
+![link to demo video](./EmbeddingProjectionDemo.gif)

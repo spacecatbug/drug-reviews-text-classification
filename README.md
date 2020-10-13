@@ -9,7 +9,13 @@ When new medicines are developed, clinical trials and research need to be undert
 
 ## Method
 
-A Bag of Words model is used to represent the text as vectors and the text classification was performed using two supervised machine learning models: Random Forest and Support Vector Machine.
+Two methods were used for this text classification:
+
+1. A Bag of Words model is used to represent the text as vectors and the text classification is performed using two supervised machine learning models: Random Forest and Support Vector Machine.
+
+2. Word embeddings is used to represent the text as vectors using a pre-trained algorithm called doc2vec. The text classification is performed using two supervised machine learning models: Random Forest and Support Vector Machine.
+
+The Bag of Words model performed the best in my processing, so these vectors are used for the projection visualisation in Tensorflow below.
 
 <a href="http://projector.tensorflow.org/?config=https://gist.githubusercontent.com/myiwt/4f8324e830e14cc1b5032e4b2e486aed/raw/295f328c767ff323ec8a67f78898a5f44eb795a1/embedding_projector_config.json" target="_blank">Projection of drug reviews</a>
  
